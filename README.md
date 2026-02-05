@@ -1,6 +1,9 @@
 # Skin-Cancer-Lesions-Segmentations-Using-U-Net
+
 This is my small project for Processing Medical Image in my college 
+
 Data : HAM10000 multi-source dermatoscopic images of pigmented skin lesions
+
 Training of neural networks for automated diagnosis of pigmented skin lesions is hampered by the small size and lack of diversity of available datasets of dermatoscopic images. We tackle this problem by releasing the HAM10000 ("Human Against Machine with 10000 training images") dataset. We collected dermatoscopic images from different populations, acquired and stored by different modalities.
 
 The final dataset consists of 10015 dermatoscopic images which can serve as a training set for academic machine learning purposes.
